@@ -7,7 +7,7 @@ setup(name='lime',
       author='Marco Tulio Ribeiro',
       author_email='marcotcr@gmail.com',
       license='BSD',
-      packages=['lime'],
+      packages=['lime', 'lime.tests'],
       install_requires=[
           'numpy',
           'scipy',

@@ -68,3 +68,12 @@ fabric.properties
 
 # Pycharm
 .idea
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Misc directories
+.tox/
+.ipynb_checkpoints/
